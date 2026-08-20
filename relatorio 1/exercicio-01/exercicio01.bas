@@ -1,5 +1,9 @@
-Dim As Single peso, agua, meta
+' ------------------------------------------------------------
+Dim peso As Single
+Dim agua As Single
+Dim meta As Single
 
+Print "--- META DE AGUA ---"
 Input "Digite o peso (kg): ", peso
 Input "Quanto de agua ja ingeriu hoje (ml): ", agua
 
@@ -10,3 +14,4 @@ If agua >= meta Then
 Else
     Print "Meta nao atingida"
 End If
+Sleep
