@@ -1,9 +1,9 @@
-# Relatorio de uso de IA - Exercicio 02
+Relatorio de uso de IA - Exercicio 02
 
 Nome completo: Leonardo Fabricio Vieira Fernandes
 Matricula: 356
 
-## Historico de prompts
+ Historico de prompts
 
 **Prompt 1:** "nesse exercicio do pin, eu tenho que ficar pedindo pro usuario digitar de novo enquanto ele errar, como eu faço isso em loop no basic sem travar pedindo so uma vez?"
 
