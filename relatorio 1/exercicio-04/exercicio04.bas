@@ -1,4 +1,3 @@
-' ------------------------------------------------------------
 Dim distancia As Double
 Dim tempo As Double
 Dim pace As Double
