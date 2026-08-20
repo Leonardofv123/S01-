@@ -1,5 +1,3 @@
-' ------------------------------------------------------------
-Dim peso As Single
 Dim agua As Single
 Dim meta As Single
 
