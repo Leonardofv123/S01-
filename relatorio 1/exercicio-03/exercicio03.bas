@@ -1,4 +1,3 @@
-' ------------------------------------------------------------
 Dim horas As Double
 Dim minutos As Double
 Dim segundos As Double
