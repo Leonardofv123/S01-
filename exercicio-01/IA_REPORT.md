@@ -1,4 +1,4 @@
-# Relatorio de uso de IA - Exercicio 01
+ Relatorio de uso de IA - Exercicio 01
 
 Nome completo: Leonardo Fabricio Vieira Fernandes
 Matricula: 356
@@ -13,6 +13,6 @@ Matricula: 356
 
 A resposta ajudou porque eu realmente nao sabia que existiam variantes tao diferentes de BASIC imaginava que ia ser aquele formato numerado do slide. Entender que o OneCompiler usa FreeBASIC evitou que eu perdesse tempo tentando escrever um codigo no formato errado.
 
-A duvida sobre Single vs Integer tambem foi resolvida de forma direta: eu nem tinha pensado que Integer podia truncar o peso, entao esse detalhe evitou um bug silencioso (o programa rodaria sem erro, mas com resultado errado sabe).
+A duvida sobre Single vs Integer tambem foi resolvida de forma direta eu nem tinha pensado que Integer podia truncar o peso, entao esse detalhe evitou um bug silencioso (o programa rodaria sem erro, mas com resultado errado sabe).
 
 Eu aprendi quw antes de sair escrevendo codigo num compilador novo, vale a pena confirmar qual dialeto/versao da linguagem ele usa, e prestar atencao no tipo de dado escolhido para cada variavel, principalmente quando o enunciado envolve valores que naturalmente tem casa decimal.
