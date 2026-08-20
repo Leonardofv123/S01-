@@ -1,4 +1,3 @@
-' ------------------------------------------------------------
 Dim pinCorreto As Integer
 Dim pinDigitado As Integer
 
