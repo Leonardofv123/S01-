@@ -1,4 +1,4 @@
-print(" CONTADOR DE OCORRENCIAS ")
+print(" CONTADOR DE OCORRENCIA ")
 
 function contarOcorrencias(tabela, alvo)
     local total = 0
