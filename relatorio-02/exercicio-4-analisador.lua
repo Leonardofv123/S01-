@@ -1,10 +1,6 @@
--- ============================================
--- EXERCICIO 4 - ANALISADOR DE NUMEROS
--- ============================================
-
 print("--- ANALISADOR DE NUMEROS ---")
 
--- Subfuncoes: cada uma faz uma coisa so
+
 function calcularMedia(a, b)
     return (a + b) / 2
 end
@@ -18,7 +14,6 @@ function encontrarMaior(a, b)
 end
 
 function calcularDiferencaAbsoluta(a, b)
-    -- sempre devolve o valor positivo, por isso inverte a conta quando b e maior
     if a > b then
         return a - b
     else
@@ -26,7 +21,6 @@ function calcularDiferencaAbsoluta(a, b)
     end
 end
 
--- Funcao principal: decide qual subfuncao chamar
 function analisarNumeros(n1, n2, operacao)
     if operacao == "media" then
         return calcularMedia(n1, n2)
