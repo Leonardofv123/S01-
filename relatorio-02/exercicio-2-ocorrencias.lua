@@ -1,7 +1,3 @@
--- ============================================
--- EXERCICIO 2 - CONTADOR DE OCORRENCIAS
--- ============================================
-
 print("--- CONTADOR DE OCORRENCIAS ---")
 
 function contarOcorrencias(tabela, alvo)
@@ -11,7 +7,7 @@ function contarOcorrencias(tabela, alvo)
             total = total + 1
         end
     end
-    return total -- devolve so a quantidade, nao as posicoes
+    return total 
 end
 
 print("Digite a quantidade de elementos (N):")
