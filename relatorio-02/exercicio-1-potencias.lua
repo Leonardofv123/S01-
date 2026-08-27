@@ -1,13 +1,9 @@
--- ============================================
--- EXERCICIO 1 - TABELA DE POTENCIAS
--- ============================================
-
 print("--- TABELA DE POTENCIAS ---")
 
 function gerarTabelaPotencias(inicio, fim, base)
-    -- i comeca em 'inicio' e vai ate 'fim', igual ao contador de intervalo
+    
     for i = inicio, fim do
-        -- math.floor tira o ".0" que o Lua coloca no resultado da potencia
+       
         local resultado = math.floor(base ^ i)
         print(base .. " ^ " .. i .. " = " .. resultado)
     end
