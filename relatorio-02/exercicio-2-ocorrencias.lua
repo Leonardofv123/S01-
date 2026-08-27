@@ -23,4 +23,4 @@ print("Digite o numero X a ser buscado:")
 local x = tonumber(io.read())
 
 local ocorrencias = contarOcorrencias(numeros, x)
-print("O numero " .. x .. " aparece " .. ocorrencias .. " vez(es) na tabela.")
+print("O numero " .. x .. " aparece " .. ocorrencias .. " vezes na tabela.")
