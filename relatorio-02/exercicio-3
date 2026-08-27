@@ -1,4 +1,4 @@
-print("--- FILTRO DE NUMEROS ---")
+print(" FILTRO DE NUMEROS ")
 
 function filtrarMaiores(tabela, limite)
     local filtrados = {} 
