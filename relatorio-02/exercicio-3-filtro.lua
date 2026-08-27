@@ -1,11 +1,7 @@
--- ============================================
--- EXERCICIO 3 - FILTRO DE MAIORES
--- ============================================
-
 print("--- FILTRO DE NUMEROS ---")
 
 function filtrarMaiores(tabela, limite)
-    local filtrados = {} -- tabela nova, a original nao e alterada
+    local filtrados = {} 
     for i = 1, #tabela do
         if tabela[i] > limite then
             table.insert(filtrados, tabela[i])
